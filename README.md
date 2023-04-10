@@ -8,4 +8,3 @@ Some personal [#RStats](https://twitter.com/hashtag/rstats) projects I'm working
 - :rowboat: Mapping my [rivers](https://github.com/statsrhian/these-are-my-rivers)
 - :bicyclist: Mapping cycling [hill climbs](https://github.com/statsrhian/hill-climbs) of the North West
 - :spaghetti: Collating useful [recipes](https://github.com/statsrhian/recipes)
-- :sunrise_over_mountains: Documenting [adventures in our campervan](https://github.com/statsrhian/campervan)
