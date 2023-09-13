@@ -2,10 +2,13 @@
 
 ## Hi I'm Rhian 👋
 
-I'm a data science leader at [Jumping Rivers](http://github.com/jumpingrivers) :technologist:
+I’m a data science leader, statistical consultant and R expert, based in the U.K.
+I’m passionate about using statistics to help people make data driven decisions.
+When I’m not at a laptop, you’ll find me outdoors. I love cycling, sea kayaking, fell running and climbing.
 
-Some personal [#RStats](https://twitter.com/hashtag/rstats) projects I'm working on:
+Some personal projects I'm working on:
 
+- :speech-balloon: [Talks](https://rhian.rbind.io) I've given
 - :rocket: Automating CPD reports with [levelup](https://github.com/statsrhian/levelup)
 - :rowboat: Mapping my [rivers](https://github.com/statsrhian/these-are-my-rivers)
 - :bicyclist: Mapping cycling [hill climbs](https://github.com/statsrhian/hill-climbs) of the North West
