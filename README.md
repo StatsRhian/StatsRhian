@@ -2,7 +2,7 @@
 
 I’m a data science leader, statistical consultant and #RStats expert, based in the U.K. I’m passionate about using statistics to help people make data driven decisions.
 I work at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/), improving the robustness and transparency of analytic work within the NHS, and supporting the [NHS-R community](https://nhsrcommunity.com/).
-I'm also a [Statistical Ambassador for the RSS](https://rss.org.uk/membership/promoting-statistics/rss-statistical-ambassadors/)
+I'm also a [Statistical Ambassador](https://rss.org.uk/membership/promoting-statistics/rss-statistical-ambassadors/) for the RSS engaging with the media, schools and wider public to improve statistical literacy.
 
 This is what I'm up to [now](https://rhian.rbind.io/now.html).
 
