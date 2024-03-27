@@ -10,4 +10,4 @@ Some personal projects:
 
 - :speech_balloon: [Talks](https://rhian.rbind.io/talks) I've given
 - :rocket: Automating CPD reports with [levelup](https://github.com/statsrhian/levelup)
-- :spaghetti: Collating [recipes](https://github.com/StatsRhian/recipes) I use in a quarto site.
+- :spaghetti: Collating [recipes](https://github.com/StatsRhian/recipes) I use in a quarto website
