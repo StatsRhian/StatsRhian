@@ -6,4 +6,4 @@ I'm also a [Statistical Ambassador](https://rss.org.uk/membership/promoting-stat
 
 This is what I'm up to [now](https://rhian.rbind.io/now.html).
 
-![Metrics](https://github.com/DanChaltiel/statsrhian/blob/main/github-metrics.svg)
+![Metrics](https://github.com/statsrhian/statsrhian/blob/main/github-metrics.svg)
