@@ -6,8 +6,4 @@ I'm also a [Statistical Ambassador](https://rss.org.uk/membership/promoting-stat
 
 This is what I'm up to [now](https://rhian.rbind.io/now.html).
 
-Some personal projects:
-
-- :speech_balloon: [Talks](https://rhian.rbind.io/talks) I've given
-- :rocket: Automating CPD reports with [levelup](https://github.com/statsrhian/levelup)
-- :spaghetti: Collating [recipes](https://github.com/StatsRhian/recipes) I use in a quarto website
+![Metrics](https://github.com/DanChaltiel/statsrhian/blob/main/github-metrics.svg)
