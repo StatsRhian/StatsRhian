@@ -26,8 +26,3 @@ jobs:
           config_animations: yes
           config_timezone: Europe/London
           plugin_languages: yes
-          plugin_habits: yes
-          plugin_habits_from: 250
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
