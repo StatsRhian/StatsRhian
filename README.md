@@ -8,6 +8,6 @@ I’m a data science leader, statistical consultant and #RStats expert, based in
 
 - 👩‍💻 I was a professional **#RStats educator** at [Jumping Rivers](https://www.jumpingrivers.com/) for five years, writing and delivering training courses internationally and am a [Posit certified trainer](https://education.rstudio.com/trainers/#people). I deliver workshops at conferences and community events.
 
-- 💜 I **value community**, and an active supporter of a number of organisations including [R-Ladies+](https://rladies.org/) and the [NHSR Community](https://nhsrcommunity.com/). I'm part of the leadership team for [rainbowR](https://rainbowr.org/). If you live near Newcastle, UK you might catch me at the [North East Data Science meetup](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/).
+- 💜 I **value community**, and am an active supporter of a number of organisations including [R-Ladies+](https://rladies.org/) and the [NHSR Community](https://nhsrcommunity.com/). I'm part of the leadership team for [rainbowR](https://rainbowr.org/). If you live near Newcastle, UK you might catch me at the [North East Data Science meetup](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/).
 
 This is what I'm up to [now](https://rhian.rbind.io/now.html).
