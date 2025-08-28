@@ -10,4 +10,4 @@ I’m a data science leader, statistical consultant and #RStats expert, based in
 
 - 💜 I **value community**, and am an active supporter of a number of organisations including [R-Ladies+](https://rladies.org/) and the [NHSR Community](https://nhsrcommunity.com/). I'm part of the leadership team for [rainbowR](https://rainbowr.org/). If you live near Newcastle, UK you might catch me at the [North East Data Science meetup](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/).
 
-This is what I'm up to [now](https://rhian.rbind.io/now.html).
+This is what I'm up to [now](https://rhian.rbind.io/now.html) and some [things I'm thinking about](https://statsrhian-garden.netlify.app/).
