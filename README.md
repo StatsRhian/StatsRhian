@@ -9,7 +9,6 @@
   📍 U.K. &nbsp;|&nbsp;
   <a href="https://rhian.rbind.io/now.html">What I'm up to now</a> &nbsp;|&nbsp;
   <a href="https://rhian.rbind.io/talks">Talks</a> &nbsp;|&nbsp;
-  <a href="https://statsrhian-garden.netlify.app/">Things I'm thinking about</a>
 </p>
 
 ---
