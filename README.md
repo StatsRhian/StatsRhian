@@ -5,12 +5,6 @@
   <em>Bringing a software development mindset to health modelling, and making statistics make sense.</em>
 </p>
 
-<p align="center">
-  📍 U.K. &nbsp;|&nbsp;
-  <a href="https://rhian.rbind.io/now.html">What I'm up to now</a> &nbsp;|&nbsp;
-  <a href="https://rhian.rbind.io/talks">Talks</a> &nbsp;
-</p>
-
 ---
 
 - 🧮 I'm a **data scientist** at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/), improving the **robustness and transparency** of analytic work within the NHS. I build **open-source Reproducible Analytical Pipelines** and give public health analysts the **tools, skills, and confidence** to develop their own reproducible analyses.
