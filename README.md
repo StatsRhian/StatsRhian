@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.strategyunitwm.nhs.uk/"><img src="https://img.shields.io/badge/Data%20Scientist-The%20Strategy%20Unit-005EB8?style=for-the-badge" alt="The Strategy Unit"></a>
+  <a href="https://www.strategyunitwm.nhs.uk/"><img src="https://img.shields.io/badge/Data%20Scientist-The%20Strategy%20Unit-005EB8?style=for-the-badge" alt="The Strategy Unit" style="flat"></a>
   <a href="https://rss.org.uk/membership/promoting-statistics/rss-statistical-ambassadors/"><img src="https://img.shields.io/badge/Statistical%20Ambassador-RSS-8A2BE2?style=for-the-badge" alt="RSS Statistical Ambassador"></a>
   <a href="https://education.rstudio.com/trainers/#people"><img src="https://img.shields.io/badge/Certified%20Trainer-Posit-447099?style=for-the-badge" alt="Posit certified trainer"></a>
   <a href="https://rainbowr.org/"><img src="https://img.shields.io/badge/Leadership-rainbowR-E40303?style=for-the-badge" alt="rainbowR"></a>
