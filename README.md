@@ -2,9 +2,10 @@
 
 I bring a software development mindset to health modelling research challenges.
 
-I’m passionate about using statistics to help people make data driven decisions.
-
 I’m a data science leader, statistical consultant and #RStats developer, based in the U.K.
+
+I communicate statistical modelling to help people make data driven decisions.
+
 
 - 🧮 I'm a **data scientist** at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/), improving the robustness and transparency of analytic work within the NHS. I build open-source Reproducible Analytical Pipelines and provide public health analysts with the tools, skills, and confidence to develop their own reproducible analyses.
 
