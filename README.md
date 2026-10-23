@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rhian 👋</h1>
 
 <p align="center">
-  <strong>Data scientist · Statistical consultant · #RStats developer & educator</strong><br>
+  <strong>Data leader · Statistical consultant · #RStats developer & educator</strong><br>
   <em>Bringing a software development mindset to health modelling, and making statistics make sense.</em>
 </p>
 
