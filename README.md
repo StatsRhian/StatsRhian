@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Rhian 👋</h1>
 
 <p align="center">
+  <br>
   <strong>Data leader · Statistical consultant · #RStats developer & educator</strong>
   <br>
   <em>Bringing a software development mindset to health modelling.</em>
-  <br><br>
-  <a href="https://rhian.rbind.io/">rhian.rbind.io ↗</a>
-</p>
 
----
+</p>
 
 <table>
 <tr>
@@ -58,6 +56,8 @@ I'm also part of the global leadership team for [rainbowR](https://rainbowr.org/
 <h3 align="center">Find out more</h3>
 
 <p align="center">
+  🗣️ <a href="https://rhian.rbind.io/talks">Talks & workshops</a>
+  &nbsp; · &nbsp;    
   🚣 <a href="http://rhionthesea.netlify.app/">Where I've been paddling</a>
   &nbsp; · &nbsp;
   📍 <a href="https://rhian.rbind.io/now">What I'm up to now</a>
