@@ -63,4 +63,6 @@ I'm also part of the global leadership team for [rainbowR](https://rainbowr.org/
   📍 <a href="https://rhian.rbind.io/now">What I'm up to now</a>
   &nbsp; · &nbsp;
   💬 <a href="https://github.com/statsrhian/nice-stuff">Nice things people have said</a>
+  &nbsp; · &nbsp;
+  📹 <a href=" https://www.youtube.com/watch?v=frqLr5nM9ZY&list=PL9XneeavNTS0FqLBA8A0NzIcodVr0p7r4">Recordings</a>
 </p>
