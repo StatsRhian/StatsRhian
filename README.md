@@ -4,7 +4,7 @@
   <br>
   <strong>Data leader · Statistical consultant · #RStats developer & educator</strong>
   <br>
-  <em>Bringing a software development mindset to health modelling.</em>
+  <em>Bringing a software development mindset to public health modelling.</em>
 
 </p>
 
