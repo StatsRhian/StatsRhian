@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Data leader · Statistical consultant · #RStats developer & educator</strong><br>
-  <em>Bringing a software development mindset to health modelling, and making statistics make sense.</em>
+  <em>Bringing a software development mindset to health modelling.</em>
 </p>
 
 ---
@@ -14,3 +14,6 @@
 - 👩‍💻 I'm an **#RStats educator** and [Posit certified trainer](https://education.rstudio.com/trainers/#people). I **write and deliver training courses** and **run workshops** at conferences and community events internationally.
 
 - 💜 I **value community**, and am an active supporter of a number of organisations including [R-Ladies+](https://rladies.org/) and the [NHSR Community](https://nhsrcommunity.com/). I'm part of the global leadership team for [rainbowR](https://rainbowr.org/).
+
+See what I'm up to [now](https://rhian.rbind.io/now), where I've [been paddling recently](http://rhionthesea.netlify.app/), or read some [nice things](https://github.com/statsrhian/nice-stuff) people have said about me/
+
