@@ -1,21 +1,11 @@
 <h1 align="center">Hi, I'm Rhian 👋</h1>
 
 <p align="center">
-  <strong>Data scientist · Statistical consultant · #RStats developer</strong>
+  <strong>Data leader · Statistical consultant · #RStats developer & educator</strong>
   <br>
   <em>Bringing a software development mindset to health modelling.</em>
-</p>
-
-<p align="center">
-  <a href="https://rhian.rbind.io/">
-    <img src="https://img.shields.io/badge/Website-3e3242?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://rhian.rbind.io/talks">
-    <img src="https://img.shields.io/badge/Talks-28435d?style=for-the-badge&logo=slides&logoColor=white" alt="Talks">
-  </a>
-  <a href="https://github.com/statsrhian/nice-stuff">
-    <img src="https://img.shields.io/badge/Kind_words-dea521?style=for-the-badge&logoColor=white" alt="Kind words">
-  </a>
+  <br><br>
+  <a href="https://rhian.rbind.io/">rhian.rbind.io ↗</a>
 </p>
 
 ---
@@ -65,7 +55,7 @@ I'm also part of the global leadership team for [rainbowR](https://rainbowr.org/
 
 ---
 
-<h3 align="center">Beyond the day job</h3>
+<h3 align="center">Find out more</h3>
 
 <p align="center">
   🚣 <a href="http://rhionthesea.netlify.app/">Where I've been paddling</a>
