@@ -54,7 +54,7 @@ I'm also part of the global leadership team for [rainbowR](https://rainbowr.org/
 <h3 align="center">✨ Selected work</h3>
 
 - 🏥 **Health modelling:** [Award-winning hospital demand & capacity model](https://www.strategyunitwm.nhs.uk/news/strategy-unit-demand-model-wins-prestigious-florence-nightingale-award) · [10-year NHS productivity forecast](https://www.strategyunitwm.nhs.uk/publications/10-year-productivity-forecast-english-nhs-expert-elicitation-study)
-- 💻 **Shiny apps:** [Welsh Health Equity Solutions Platform](https://improvementcymru.shinyapps.io/solutions-platform/) · [Communities & demographic growth](https://connect.strategyunitwm.nhs.uk/communities_demographic_growth/)
+- 💻 **Shiny apps:** [Welsh Health Equity Solutions Platform](https://improvementcymru.shinyapps.io/solutions-platform/) · [Community services demographic growth](https://connect.strategyunitwm.nhs.uk/communities_demographic_growth/)
 - 📚 **Training:** [Building R Packages](https://statsrhian.github.io/build-r-pkg/) · [RAP Accelerator](https://the-strategy-unit.github.io/RAP-accelerator/)
 - 🛠️ **Open source practice:** [How I used GitHub to save my QA](https://rhian.rbind.io/posts/2025-11-07_github-qa/)
 
