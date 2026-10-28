@@ -12,7 +12,7 @@
 
 ### 🏥 Health modelling
 
-I'm a **data scientist at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/)**, improving the robustness and transparency of analytical work within the NHS.
+I'm a **senior data scientist at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/)**, improving the robustness and transparency of analytical work within the NHS.
 
 I build **open-source Reproducible Analytical Pipelines** to make health analysis more reliable, maintainable and transparent.
 
