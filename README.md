@@ -41,7 +41,7 @@ I develop and deliver training courses, helping analysts build the tools, skills
 
 ### 💜 Community
 
-I value community and actively support organisations including [R-Ladies+](https://rladies.org/) and the [NHS-R Community](https://nhsrcommunity.com/).
+I value community and actively support organisations including [R-Ladies+](https://rladies.org/) and the [NHS Open Analytics Community](https://nhsoa.uk/).
 
 I'm also part of the global leadership team for [rainbowR](https://rainbowr.org/).
 
