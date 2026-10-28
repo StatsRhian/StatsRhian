@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Rhian 👋</h1>
 
 <p align="center">
-  <br>
   <strong>Data leader · Statistical consultant · #RStats developer & educator</strong>
   <br>
   <em>Bringing a software development mindset to public health modelling.</em>
-
 </p>
 
 <table>
@@ -16,7 +14,7 @@
 
 I'm a **data scientist at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/)**, improving the robustness and transparency of analytical work within the NHS.
 
-I build **open-source Reproducible Analytical Pipelines** to help make health analysis more reliable, maintainable and transparent.
+I build **open-source Reproducible Analytical Pipelines** to make health analysis more reliable, maintainable and transparent.
 
 </td>
 <td width="50%" valign="top">
@@ -53,15 +51,24 @@ I'm also part of the global leadership team for [rainbowR](https://rainbowr.org/
 
 ---
 
-<h3 align="center">Find out more</h3>
+<h3 align="center">✨ Selected work</h3>
+
+- 🏥 **Health modelling:** [Award-winning hospital demand & capacity model](https://rss.org.uk/news-publication/news-publications/2025/general-news/the-florence-nightingale-award-for-excellence-in-h/) · [10-year NHS productivity forecast](https://www.strategyunitwm.nhs.uk/publications/10-year-productivity-forecast-english-nhs-expert-elicitation-study)
+- 💻 **Shiny apps:** [Welsh Health Equity Solutions Platform](https://improvementcymru.shinyapps.io/solutions-platform/) · [Communities & demographic growth](https://connect.strategyunitwm.nhs.uk/communities_demographic_growth/)
+- 📚 **Training:** [Building R Packages](https://statsrhian.github.io/build-r-pkg/) · [RAP Accelerator](https://the-strategy-unit.github.io/RAP-accelerator/)
+- 🛠️ **Open source practice:** [How I used GitHub to save my QA](https://rhian.rbind.io/posts/2025-11-07_github-qa/)
+
+---
+
+<h3 align="center">🔗 Find out more</h3>
 
 <p align="center">
   🗣️ <a href="https://rhian.rbind.io/talks">Talks & workshops</a>
-  &nbsp; · &nbsp;    
+  &nbsp; · &nbsp;
   🚣 <a href="http://rhionthesea.netlify.app/">Where I've been paddling</a>
   &nbsp; · &nbsp;
   📍 <a href="https://rhian.rbind.io/now">What I'm up to now</a>
-  &nbsp; · &nbsp;
+  <br><br>
   💬 <a href="https://github.com/statsrhian/nice-stuff">Nice things people have said</a>
   &nbsp; · &nbsp;
   📹 <a href="https://www.youtube.com/watch?v=frqLr5nM9ZY&list=PL9XneeavNTS0FqLBA8A0NzIcodVr0p7r4">Recordings</a>
