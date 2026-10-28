@@ -19,9 +19,9 @@ I build **open-source Reproducible Analytical Pipelines** to make health analysi
 </td>
 <td width="50%" valign="top">
 
-### 📊 Statistics
+### 📊 Communicating Statistics
 
-I love **talking statistics**. As a [Statistical Ambassador](https://rss.org.uk/membership/promoting-statistics/rss-statistical-ambassadors/) for the [Royal Statistical Society](https://rss.org.uk), I engage with the media, schools and the wider public to improve statistical literacy.
+I love **talking stats**. As a [Statistical Ambassador](https://rss.org.uk/membership/promoting-statistics/rss-statistical-ambassadors/) for the [Royal Statistical Society](https://rss.org.uk), I engage with the media, schools and the wider public to improve statistical literacy.
 
 I'm also a [regular speaker](https://rhian.rbind.io/talks) at meetups and conferences.
 
